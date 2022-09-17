@@ -41,6 +41,11 @@ Or paste this line to your `logseq/config.edn`:
   :custom-css-url "@import url('https://cdn.jsdelivr.net/gh/g1eny0ung/logseq-github-theme@master/light.css');"
 }
 ```
+## Recommended Plugins for optical improvement
+- Solarized Ext
+- Banners
+- Tabs
+- Bullet Threading
 
 ## License
 
@@ -50,5 +55,5 @@ MIT
 
 Thanks to 
 - Yurii Piskun for providing the advanced css template to built on
-- 
+- One Dark Pro Theme for inspiriation
 
