@@ -1,0 +1,103 @@
+alias:: [[maybe the best theme ever made]]
+tags:: #theme #logseq
+creator:: [[MatAmo93]]
+banner:: "https://wallpaperaccess.com/download/4k-minimalist-203536"
+
+- # Theme Preview (H1)
+	- A beauftiful and  **highly detailed** light and dark theme for *Logseq*
+	- ## General (H2)
+		- ### Links (h3)
+			- [[Internal Links]] look like this
+			- [External Links](https://www.azquotes.com/quotes/topics/truth-hurts.html) look like this
+		- ### Text
+			- This shows ==some highlighted== Text
+			- This shows **some bolded** Text
+			- This shows *some italics* Text
+			- `inline code like this`
+			- #+BEGIN_QUOTE
+			  Quote like this 
+			  #+END_QUOTE
+		- ### tasks
+			- #tags like this
+		- ### Task Styling
+			- TODO [#A] Task 1 - prio A
+			- WAITING [#B] Task 2 - prio B
+			  :LOGBOOK:
+			  CLOCK: [2022-09-17 Sat 00:24:41]
+			  :END:
+			- DOING [#C] Task 3 - prio C
+			  :LOGBOOK:
+			  CLOCK: [2022-09-17 Sat 10:24:32]
+			  :END:
+			- DONE Task 4
+		- ### Collapsed bullet
+		  collapsed:: true
+			- This is how an embed look like
+			  id:: 63258324-3251-4065-b1d1-2de89d31e4e2
+				- Lorem Ipsum
+		- ### Embed
+			- {{embed ((63258324-3251-4065-b1d1-2de89d31e4e2))}}
+	- ## Code
+		- ### Javascript
+			- ```js
+			  function findSequence(goal) {
+			      function find(start, history) {
+			        if (start == goal)
+			          return history;
+			        else if (start > goal)
+			          return null;
+			        else
+			          return find(start + 5, "(" + history + " + 5)") ||
+			                 find(start * 3, "(" + history + " * 3)");
+			      }
+			      return find(1, "1");
+			    }
+			  ```
+		- ### C#
+			- ```cs
+			  using System;
+			  
+			  namespace MyApplication
+			  {
+			    class Car
+			    {
+			      string color = "red";
+			  
+			      static void Main(string[] args)
+			      {
+			        Car myObj = new Car();
+			        Console.WriteLine(myObj.color);
+			      }
+			    }
+			  }
+			  ```
+		- ### HTML
+			- ```html
+			   <!DOCTYPE html>
+			  <html>
+			  <head>
+			  <title>Page Title</title>
+			  </head>
+			  <body>
+			  
+			  <h1>This is a Heading</h1>
+			  <p>This is a paragraph.</p>
+			  
+			  </body>
+			  </html> 
+			  ```
+		- ### CSS
+			- ```css
+			  body {
+			    background-color: lightblue;
+			  }
+			  
+			  [class*="cm-s-"].CodeMirror {
+			    background-color:#FFFFFF);
+			    color: #8E95B4;
+			    line-height: 1.8;
+			    border-radius: 10px;
+			  }
+			  ```
+-
+- ==Made with ❤==
