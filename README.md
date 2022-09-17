@@ -57,3 +57,4 @@ Thanks to
 - Yurii Piskun for providing the advanced css template to built on
 - One Dark Pro Theme for inspiriation
 
+==Made with love ♥==
