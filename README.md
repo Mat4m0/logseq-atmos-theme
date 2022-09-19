@@ -18,29 +18,6 @@
 | ----------------------------------- | ------------------------------------------------- |
 | ![atmos_dark.png](./images/atmos_dark.png) | ![atmos_light.png](./images/atmos_light.png) |
 
-## Manual Installation
-
-Here's how to install manually (But in most cases you don't need to do this):
-
-### Offline
-
-Download the theme (e.g. `light.css`) into your notes folder and rename it to `logseq/custom.css`.
-
-### Online
-
-Paste this line to your `logseq/custom.css`:
-
-```css
-@import url('https://cdn.jsdelivr.net/gh/g1eny0ung/logseq-github-theme@master/light.css');
-```
-
-Or paste this line to your `logseq/config.edn`:
-
-```edn
-{
-  :custom-css-url "@import url('https://cdn.jsdelivr.net/gh/g1eny0ung/logseq-github-theme@master/light.css');"
-}
-```
 ## Recommended Plugins for optical improvement
 - Solarized Ext
 - Banners
@@ -54,7 +31,7 @@ MIT
 ## Credits
 
 Thanks to 
-- Yurii Piskun for providing the advanced css template to built on
+- Yurii Piskun for building solarized extended, providing the advanced css template to built on
 - One Dark Pro Theme for inspiriation
 
 Made with love ♥
