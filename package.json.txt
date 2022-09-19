@@ -1,0 +1,16 @@
+{
+	"name": "logseq-Atmos-theme",
+	"author": "MatAmo93",
+	"version": "0.1.0",
+	"description": "A theme inspired by One Dark Pro",
+	"logseq": {
+		"themes": [
+			{
+				"name": "Atmos Theme",
+				"url": "./main.css"
+			}
+		],
+		"id": "logseq-atmos-theme",
+		"icon": "./icon.png"
+	}
+}
