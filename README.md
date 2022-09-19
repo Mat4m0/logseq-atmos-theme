@@ -12,11 +12,11 @@
 
 | Preview                                |
 | ------------------------------------- |
-| ![preview.png](./imagess/atmos_preview.png) |
+| ![preview.png](./images/atmos_preview.png) |
 
 | Dark                                | Dark Dimmed                                       |
 | ----------------------------------- | ------------------------------------------------- |
-| ![atmos_dark.png](./images/atmos_dark.png) | ![atmos_light.png](./screenshots/atmos_light.png) |
+| ![atmos_dark.png](./images/atmos_dark.png) | ![atmos_light.png](./images/atmos_light.png) |
 
 ## Manual Installation
 
