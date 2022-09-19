@@ -14,7 +14,7 @@
 | ------------------------------------- |
 | ![preview.png](./images/atmos_preview.png) |
 
-| Dark                                | Dark Dimmed                                       |
+| Dark                                | Light                                       |
 | ----------------------------------- | ------------------------------------------------- |
 | ![atmos_dark.png](./images/atmos_dark.png) | ![atmos_light.png](./images/atmos_light.png) |
 
