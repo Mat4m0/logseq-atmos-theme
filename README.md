@@ -23,6 +23,10 @@
 - Banners
 - Tabs
 - Bullet Threading
+- 
+## Support
+
+If you have any questions, issues or feature request, use the issue submission on GitHub: https://github.com/MatAmo93/logseq-atmos-theme/issues
 
 ## License
 
