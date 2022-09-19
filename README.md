@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
 <p align="center">
-  <img src="./images/atmos_logo.png" alt="logo" height="128" />
+  <img src="./icon.png" alt="logo" height="128" />
 </p>
 <h1 align="center">Logseq Atmos Theme</h1>
 
