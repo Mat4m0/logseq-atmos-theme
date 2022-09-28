@@ -26,7 +26,7 @@
 
 ## Support
 
-If you have any questions, issues or feature request, use the issue submission on GitHub: https://github.com/MatAmo93/logseq-atmos-theme/issues
+If you have any questions, issues or feature request, use the issue submission on GitHub: https://github.com/Mat4m0/logseq-atmos-theme/issues
 
 ## License
 
