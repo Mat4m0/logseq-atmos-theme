@@ -2,6 +2,8 @@
     --solext-font-fira-sans: 'Fira Sans', sans-serif;
     --solext-font-aiwriter-quattro: 'iA Writer Quattro', sans-serif;
     --solext-font-default-inter: 'Inter', sans-serif;
+    --ls-main-content-max-width: 75%;
+    --ls-main-content-max-width-wide: 80%;
 }
 
 .light-theme,
@@ -279,7 +281,7 @@ body:is([data-page='page'], [data-page='home']).is-banner-active .cp__sidebar-ma
     border-radius: 0 0 10px 10px;
 }
 body:is([data-page='page'], [data-page='home']).is-banner-active .ls-wide-mode #banner {
-    max-width: var(--ls-main-content-max-width-wide);
+    max-width: var(--ls-main-content-max-width);
 }
 /*
 <<<< END: Backgrounds, shadows
