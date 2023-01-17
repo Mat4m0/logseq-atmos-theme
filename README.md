@@ -19,9 +19,7 @@
 | ![atmos_dark.png](./images/atmos_dark.png) | ![atmos_light.png](./images/atmos_light.png) |
 
 ## Recommended Plugins for optical improvement
-- Solarized Ext
 - Banners
-- Tabs
 - Bullet Threading
 
 ## Support
