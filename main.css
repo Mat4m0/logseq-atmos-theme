@@ -1,4 +1,5 @@
-:root {
+:
+root {
     --solext-font-fira-sans: 'Fira Sans', sans-serif;
     --solext-font-aiwriter-quattro: 'iA Writer Quattro', sans-serif;
     --solext-font-default-inter: 'Inter', sans-serif;
@@ -385,6 +386,11 @@ h1.title {
   padding: 3px 10px;
   background-color: var(--solext-link-user);
 }
+
+.title .page-ref {
+  color: var(--solext-ui-content-bg-user); 
+}
+
 .editor-inner .uniline-block:is(.h1),
 .editor-inner :is(.h1),
 .ls-block h1 {
